@@ -1,0 +1,12 @@
+{
+  "name": "Example",
+  "description": "An example applicationusing Node and Express",
+  "version": "1.0.0",
+  "author": {
+    "name": "Steve Fenton",
+    "url": "http://www.stevefenton.co.uk/"
+  },
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
